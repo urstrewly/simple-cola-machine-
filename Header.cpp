@@ -9,7 +9,7 @@ machine::machine() // constructor
 
 int machine::displaying() // method
 {
-	std::cout << "\n\n\t\t\t Welcome to a cola machine made by crux" << std::endl;
+	std::cout << "\n\n\t\t\t Welcome to a cola machine made by 0x191" << std::endl;
 	std::cout << "\n\n\t\t\t\t --- Choose one ---" << std::endl;
 	std::cout << "\n\t\t\t\t 1.Cola" << std::endl;
 	std::cout << "\n\t\t\t\t\t 2.Water" << std::endl;
